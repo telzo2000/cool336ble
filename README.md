@@ -9,13 +9,13 @@ Do you have an unused ISO enter key or 7U space key in a corner of your room?
 部屋の隅に未使用の ISO エンターキーや 7U スペースキーはありませんか?
 <br>
 <br>
-cool336 is qaz layout keyboard.
+cool336ble is qaz layout keyboard.
 <br>
-cool336はqaz配列のキーボードです。
+cool336bleはqaz配列のキーボードです。
 <br><br>
-cool336 has a iso enter key and 7U long space key.
+cool336ble has a iso enter key and 7U long space key.
 <br>
-cool336 には ISO Enter キーと 7U の長いスペースキーがあります。
+cool336ble には ISO Enter キーと 7U の長いスペースキーがあります。
 <br>
 <br>
 This keyboard use Pro micro or BLE Micro Pro, run qmk_firmware.
