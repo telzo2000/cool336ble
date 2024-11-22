@@ -87,6 +87,10 @@ Insert the reset switch from the back of the PCB and solder the exposed part.
 ![](img/img00009.jpg)
 
 
+[リセットスイッチのはんだ付けの作業動画](https://youtu.be/Pl24Exfh8b8)
+
+
+
 ### 4 Battery parts soldering(Bluetooth option)
 
 ![](img/img00018.jpg)
@@ -107,6 +111,11 @@ After temporarily fixing it with masking tape, etc., solder the exposed part of 
 マスキングテープなどで仮固定をしてから、PCBの表面に出た部分をはんだ付けします。
 ![](img/img00016.jpg)
 <br>
+
+
+[スライドスイッチのはんだ付けの作業動画](https://youtu.be/5nkRklibay4)
+
+<br>
 Next, solder the capacitor.
 <br>
 次に、コンデンサをはんだ付けします。
@@ -126,6 +135,10 @@ Solder the capacitor, applying solder to the remaining pads.
 残りのパッドにはんだを盛りながら、コンデンサをはんだ付けします。
 ![](img/img00013.jpg)
 Finally, attach the battery holder.
+<br>
+
+[コンデンサのはんだ付け作業の動画](https://youtu.be/8CFiDMtg21s)
+
 <br>
 最後に、電池ホルダを取り付けます。
 <br>
