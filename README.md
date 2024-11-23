@@ -26,6 +26,12 @@ With this keyboard, you can edit your favorite keymap using vial.
 <br>
 このキーボードでは、vialを使用してお気に入りのキーマップを編集できます。
 
+# Layout
+
+
+![](img/cool336.png)
+
+
 
 ## firmware
 
