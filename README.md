@@ -32,7 +32,9 @@ With this keyboard, you can edit your favorite keymap using vial.
 ![](img/cool336.png)
 Keycap:1U x 31, 1.25U x 1, 1.75U x 2, 7U x 1, ISOkey x 1
 
+## How to get keycaps?
 
+https://yuzukeycaps.com/keyboards/cool336ble
 
 ## firmware
 
